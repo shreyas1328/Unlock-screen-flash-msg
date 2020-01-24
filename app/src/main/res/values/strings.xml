@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">UnlockScreen Flash msg</string>
-    <string name="text">Please enable screen overlay on for this Application</string>
-    <string name="text_2">Overlay on for this Application is already enabled</string>
-    <string name="text_3">The battery restriction must be removed and app autoStart must be enabled</string>
+    <string name="request_text">Note: Before pressing start button make sure bellow requiremnets are met\n. .This app requires certain manual permissions like battery optimization, screen overlay and app auto start enable inorder for app to work properly.</string>
+    <string name="hi_sasad_ashdbsaud_asdsa_adsad"><![CDATA[hi //                            sasad// ashdbsaud -> asdsa adsad]]></string>
+    <string name="battery">1) Battery optimization removal and app auto start must be done manually</string>
+    <string name="screen_verlay">2) Enable screen overlay</string>
+    <string name="auto_restart">3) Enable screen Auto restart</string>
 </resources>
